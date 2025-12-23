@@ -1,0 +1,81 @@
+// Export pages
+export '/patient/profile_page_i_d_page/profile/profile_widget.dart'
+    show ProfileWidget;
+export '/patient/authentication_page/login/login_widget.dart' show LoginWidget;
+export '/patient/authentication_page/signup/signup_widget.dart'
+    show SignupWidget;
+export '/patient/user_info_page/profilecreate/profilecreate_widget.dart'
+    show ProfilecreateWidget;
+export '/patient/user_info_page/edit_profile/edit_profile_widget.dart'
+    show EditProfileWidget;
+export '/patient/other_pages/onboarding/onboarding_widget.dart'
+    show OnboardingWidget;
+export '/patient/profile_page_i_d_page/id_page/id_page_widget.dart'
+    show IdPageWidget;
+export '/patient/extra_pages/leave_certificate/leave_certificate_widget.dart'
+    show LeaveCertificateWidget;
+export '/patient/extra_pages/prescription_history/prescription_history_widget.dart'
+    show PrescriptionHistoryWidget;
+export '/patient/other_pages/home_page2/home_page2_widget.dart'
+    show HomePage2Widget;
+export '/patient/appointments_page/appointment_page_cardiology/appointment_page_cardiology_widget.dart'
+    show AppointmentPageCardiologyWidget;
+export '/patient/other_pages/specizatiom/specizatiom_widget.dart'
+    show SpecizatiomWidget;
+export '/patient/appointments_page/appointment_page_neurology/appointment_page_neurology_widget.dart'
+    show AppointmentPageNeurologyWidget;
+export '/patient/appointments_page/appointment_page_orthopedics/appointment_page_orthopedics_widget.dart'
+    show AppointmentPageOrthopedicsWidget;
+export '/patient/appointments_page/appointment_page_pediatrics/appointment_page_pediatrics_widget.dart'
+    show AppointmentPagePediatricsWidget;
+export '/patient/appointments_page/appointment_page_ophthalmology/appointment_page_ophthalmology_widget.dart'
+    show AppointmentPageOphthalmologyWidget;
+export '/patient/appointments_page/appointment_page_obstetrics_gynecology/appointment_page_obstetrics_gynecology_widget.dart'
+    show AppointmentPageObstetricsGynecologyWidget;
+export '/patient/appointments_page/appointment_page_dermatology/appointment_page_dermatology_widget.dart'
+    show AppointmentPageDermatologyWidget;
+export '/patient/payment_page/payment_page/payment_page_widget.dart'
+    show PaymentPageWidget;
+export '/patient/other_pages/a_i_page/a_i_page_widget.dart' show AIPageWidget;
+export '/patient/payment_page/transaction_history/transaction_history_widget.dart'
+    show TransactionHistoryWidget;
+export '/patient/payment_page/payment_through_page/payment_through_page_widget.dart'
+    show PaymentThroughPageWidget;
+export '/patient/appointments_page/upcoming_appointment/upcoming_appointment_widget.dart'
+    show UpcomingAppointmentWidget;
+export '/patient/medication_page/medication_page_list/medication_page_list_widget.dart'
+    show MedicationPageListWidget;
+export '/patient/medication_page/medication_info/medication_info_widget.dart'
+    show MedicationInfoWidget;
+export '/patient/payment_page/review_payment/review_payment_widget.dart'
+    show ReviewPaymentWidget;
+export '/doctor/authentication_page_doc/login_doc/login_doc_widget.dart'
+    show LoginDocWidget;
+export '/doctor/authentication_page_doc/signup_doc/signup_doc_widget.dart'
+    show SignupDocWidget;
+export '/doctor/other_page_doc/home_page_doc/home_page_doc_widget.dart'
+    show HomePageDocWidget;
+export '/doctor/appointment_view_doc/appointment_doc/appointment_doc_widget.dart'
+    show AppointmentDocWidget;
+export '/doctor/medication_page_doc/medication_prescription/medication_prescription_widget.dart'
+    show MedicationPrescriptionWidget;
+export '/doctor/profile_create_doc/profilecreate_doc/profilecreate_doc_widget.dart'
+    show ProfilecreateDocWidget;
+export '/choice_page/choice_page_widget.dart' show ChoicePageWidget;
+export '/doctor/other_page_doc/onboarding_doc/onboarding_doc_widget.dart'
+    show OnboardingDocWidget;
+export '/patient/termsof_services/termsof_service/termsof_service_widget.dart'
+    show TermsofServiceWidget;
+export '/patient/record_page/record_page/record_page_widget.dart'
+    show RecordPageWidget;
+export '/patient/appointments_page/appointment_page_detailed_today/appointment_page_detailed_today_widget.dart'
+    show AppointmentPageDetailedTodayWidget;
+export '/patient/appointments_page/appointment_page_detailed_upcoming/appointment_page_detailed_upcoming_widget.dart'
+    show AppointmentPageDetailedUpcomingWidget;
+export '/patient/record_page/recent_visit_record/recent_visit_record_widget.dart'
+    show RecentVisitRecordWidget;
+export '/patient/record_page/medication_history_record/medication_history_record_widget.dart'
+    show MedicationHistoryRecordWidget;
+export '/doctor/id_page_doc/id_page_doc_widget.dart' show IdPageDocWidget;
+export '/doctor/transaction_history_doc/transaction_history_doc_widget.dart'
+    show TransactionHistoryDocWidget;
